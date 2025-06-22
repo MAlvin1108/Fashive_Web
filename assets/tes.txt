@@ -1,0 +1,104 @@
+ <section class="hero" id="home">
+            <main class="content">
+                <h1>The Streetwear Fashion</h1>
+                <p>for your inspiration outfit stylis and cool</p>
+            </main>
+        </section>
+
+        <section class="hero1" id="shirt">
+          <h2>Shirt</h2>
+          <div class="shop-card-list">
+            <div class="shop-card">
+              <img src="../assets/img/product/Cotton Round Neck Short Sleeve T-shirt Men - White _ L.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+
+            <div class="shop-card">
+              <img src="../assets/img/product/Cotton Round Neck Short Sleeve T-shirt Men - White _ L.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+
+            <div class="shop-card">
+              <img src="../assets/img/product/Cotton Round Neck Short Sleeve T-shirt Men - White _ L.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+
+            <div class="shop-card">
+              <img src="../assets/img/product/Cotton Round Neck Short Sleeve T-shirt Men - White _ L.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+          </div>
+        </section>
+        
+
+        <section class="hero2">
+          <ul class="list-img">
+            <li><img src="../assets/img/background/ali-ghafouri-RxBnnZ2vxZc-unsplash.jpg" alt="gambar1"></li>
+            <li><img src="../assets/img/background/mark-adriane-bO3S03I2Aw8-unsplash.jpg" alt="gambar2"></li>
+          </ul>
+        </section>
+
+        <section class="hero1" id="shirt">
+          <h2>Pants</h2>
+          <div class="shop-card-list">
+            <div class="shop-card">
+              <img src="../assets/img/product/Jean Baggy Délavé.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+
+            <div class="shop-card">
+              <img src="../assets/img/product/Jean Baggy Délavé.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+
+            <div class="shop-card">
+              <img src="../assets/img/product/Jean Baggy Délavé.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+
+            <div class="shop-card">
+              <img src="../assets/img/product/Jean Baggy Délavé.jpg" alt="shirt1">
+              <h3 class="shop-card-tittle">Cotton Round Neck Short Sleeve T-shirt Men - White</h3>
+              <p class="price">167000</p>
+              <div class="btn-feathur">
+                <a href="buy"><i data-feather="shopping-cart"></i>buy</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="hero3" id="hero3">
+            <h2>Expose Your Style</h1>
+        </br>
+            <main class="card-expose">
+              
+            </main>
+        </section>
