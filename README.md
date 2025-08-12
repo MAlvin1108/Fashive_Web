@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fashive.co">
-    <img src="public/zipper(1).png" alt="Fashive.co Logo" width="50%" height="50%">
+    <img src="public/zipper(1).png" alt="Fashive.co Logo" width="10%" height="10%">
   </a>
   <h1 align="center">fashive.co</h1>
 </p>
