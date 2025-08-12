@@ -21,11 +21,11 @@ This is the front-end repository for fashive.co, a dynamic e-commerce web applic
 
 ## 🛠️ Technology Stack
 
-- **Framework**: Vue.js
-- **Build Tool**: Vite
-- **State Management**: Pinia
-- **Routing**: Vue Router
-- **Styling**: Tailwind CSS
+- **Framework**: webpack
+- **Build Tool**: js, html
+- **Deployment**: Netlify 
+- **Routing**: npm
+- **Styling**: CSS
 
 ## 🚀 Installation
 
